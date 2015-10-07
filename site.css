@@ -1,0 +1,22 @@
+.player-card {
+	border: 5px  solid black;
+	display: inline-block;
+}
+.player-form {
+	border: 1px  solid black;	
+	background-color: gray;
+	background-image: url("images/NFL3.jpg");
+	color: lightslategrey;
+}
+
+.player-roster {
+	border: 1px  solid green;	
+	
+}
+body {
+	background-color:;
+	background-image: url("images/NFL2.jpg")
+}
+.player-text-style {
+	text-align: center;
+}
